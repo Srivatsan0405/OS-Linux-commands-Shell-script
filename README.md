@@ -1,9 +1,7 @@
 # 1.OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 
-### NAME   : Srivatsan V
-### REF NO : 212223110053
-### DEP    : CSE(IOT)
+
 
 # AIM:
 To practice Linux Commands and Shell Scripting
